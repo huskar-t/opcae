@@ -3,7 +3,7 @@ module github.com/huskar-t/opcae
 go 1.20
 
 require (
-	github.com/huskar-t/opcda v0.2.0
+	github.com/huskar-t/opcda v0.3.0
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/sys v0.18.0
 )
